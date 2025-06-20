@@ -1,7 +1,7 @@
-# On this day I learned:
+# On this day, I learned:
 # 1. Printing - print text to the console.
-# 2. String Manipulation - adding \n, spaces, how to use variables in the print function.
-# 3. Inputs - how to input user's data.
+# 2. String Manipulation - adding \n, spaces and how to use variables in the print function.
+# 3. Inputs - how to input the user's data.
 # 4. Variables - learned what variables are and how to use them.
 # 5. Variable Naming - learned best practices with naming.
 # 6. And with all of that knowledge, I've created the Band Name Generator.
